@@ -42,21 +42,15 @@
 
 ### 🌐 Connect With Me
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://t.me/holobuddy">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto: saranshgemini18@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://t.me/holobuddy">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="70" alt="Telegram Button" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saranshgemini18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="70" alt="Email Button" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Power Stats
