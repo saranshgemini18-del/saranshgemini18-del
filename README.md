@@ -40,15 +40,6 @@
 
 ---
 
-### 🎵 Current Vibe (Animated Spotify)
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=312ubiwtr7mp3hkiifprcgjtrdxa&cover_image=true&theme=tokyonight">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312ubiwtr7mp3hkiifprcgjtrdxa&cover_image=true&theme=tokyonight" alt="Spotify Widget" />
-  </a>
-</div>
-
----
-
 ### 📊 GitHub Power Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saranshgemini18-del&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
