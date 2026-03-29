@@ -45,7 +45,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://t.me/@holobuddy">
+      <a href="https://t.me/holobuddy">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150" />
       </a>
     </td>
