@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Power Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saranshgemini18-del&theme=tokyonight&bg_color=1a1b26&color=ff0050&line=56c1ff&point=e91374&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saranshgemini18-del&theme=dark&bg_color=1a1b26&color=ff0050&line=56c1ff&point=e91374&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
