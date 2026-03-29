@@ -59,14 +59,13 @@
 ---
 
 ### 🌐 Connect With Me
-### 🌐 Connect With Me (Plastic Button Edition)
 <div align="center">
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-039be5?style=plastic&logo=telegram&logoColor=white" alt="Telegram Button" height="40"/>
+    <img src="https://img.shields.io/badge/-Telegram-039be5?style=plastic&logo=telegram&logoColor=white" alt="Telegram Button" height="70"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-e53935?style=plastic&logo=gmail&logoColor=white" alt="Email Button" height="40"/>
+    <img src="https://img.shields.io/badge/-Email-e53935?style=plastic&logo=gmail&logoColor=white" alt="Email Button" height="70"/>
   </a>
 </div>
 
