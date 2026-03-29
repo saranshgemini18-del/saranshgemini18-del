@@ -1,15 +1,15 @@
 # Hi there, I'm Saransh! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hey,%20I'm%20Saransh%20%F0%9F%91%8B&fontSize=80&animation=fadeIn&fontAlignY=35&color=C210B0&secondaryColor=9620E1" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=250&section=header&text=Hey,%20I'm%20Saransh%20%F0%9F%91%8B&fontSize=80&animation=fadeIn&fontAlignY=35&secondaryColor=1e293b" alt="Header Banner" />
 </div>
 
 <div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70E5C&random=false&width=450&lines=Working+on+India's+First+Friendly+AI+🤖;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning...%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22d3ee&random=false&width=450&lines=Working+on+India's+First+Friendly+AI+🤖;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning...%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=saranshgemini18-del&color=E120A0&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=saranshgemini18-del&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </div>
 
 ---
@@ -27,17 +27,23 @@
 
 ### 🛠️ Tech Stack (The Toolkit)
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mysql,git,github,vscode,py,c,vercel,c++,linux,windows,figma" />
-  </a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
 ### 🎵 Current Vibe (Animated Spotify)
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=312ubiwtr7mp3hkiifprcgjtrdxa&cover_image=true&theme=radical">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312ubiwtr7mp3hkiifprcgjtrdxa&cover_image=true&theme=radical" alt="Spotify Widget" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=312ubiwtr7mp3hkiifprcgjtrdxa&cover_image=true&theme=tokyonight">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312ubiwtr7mp3hkiifprcgjtrdxa&cover_image=true&theme=tokyonight" alt="Spotify Widget" />
   </a>
 </div>
 
@@ -45,31 +51,26 @@
 
 ### 📊 GitHub Power Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saranshgemini18-del&theme=dark&bg_color=1a1b26&color=ff0050&line=56c1ff&point=e91374&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranshgemini18-del&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saranshgemini18-del&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshgemini18-del&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshgemini18-del&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshgemini18-del&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🌐 Connect With Me
 <div align="center">
-<a href="https://t.me/@holobuddy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="50" /></a>
-<a href="mailto:saranshgemini18@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="40" width="50" /></a>
+  <a href="https://t.me/@holobuddy" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:saranshgemini18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&color=C210B0&secondaryColor=9620E1" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=100&section=footer&secondaryColor=1e293b" alt="Footer Banner" />
 </div>
