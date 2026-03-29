@@ -40,29 +40,34 @@
 
 ---
 
-### 📊 GitHub Power Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranshgemini18-del&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshgemini18-del&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### 🌐 Connect With Me
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/@holobuddy">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:saranshgemini18@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect With Me
-<div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-039be5?style=plastic&logo=telegram&logoColor=white" alt="Telegram Button" height="70"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-e53935?style=plastic&logo=gmail&logoColor=white" alt="Email Button" height="70"/>
-  </a>
-</div>
+### 📊 GitHub Power Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saranshgemini18-del&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshgemini18-del&theme=tokyonight" />
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=100&section=footer&secondaryColor=1e293b" alt="Footer Banner" />
-</div>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=100&section=footer&secondaryColor=1e293b" />
+</p>
