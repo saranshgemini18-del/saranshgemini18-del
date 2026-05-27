@@ -1,7 +1,7 @@
 # Hi there, I'm Saransh! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=250&section=header&text=Hey,%20I'm%20Saransh%20%F0%9F%91%8B&fontSize=80&animation=fadeIn&fontAlignY=35&secondaryColor=1e293b" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=74e8d9&height=250&section=header&text=Hey,%20I'm%20Saransh%20%F0%9F%91%8B&fontSize=80&animation=fadeIn&fontAlignY=35&secondaryColor=1e293b" alt="Header Banner" />
 </div>
 
 <div align="right">
